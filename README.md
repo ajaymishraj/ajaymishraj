@@ -47,9 +47,6 @@ AI          Generative AI · Prompt Engineering
 - Next Gen Technologies — Infosys Springboard · Feb 2026
 - Claude 101 Workshop — Outskill · May 2026
 
----
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ajaymishraj&show_icons=true&hide_border=true&count_private=true)
 
 ---
 
