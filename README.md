@@ -42,7 +42,7 @@ AI          Generative AI · Prompt Engineering
 ---
 
 ### Certifications
-
+- Participated in Code Sprint 2.0 — The Power of AI Today | Reboot Club, NIET | April 2026
 - Master Generative AI & Tools — Udemy Business · Jan 2026
 - Next Gen Technologies — Infosys Springboard · Feb 2026
 - Claude 101 Workshop — Outskill · May 2026
