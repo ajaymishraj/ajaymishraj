@@ -50,4 +50,4 @@ AI          Generative AI · Prompt Engineering
 
 ---
 
-*🎯 Open to Summer 2026 web development internships → ajaymishraj25@gmail.com*
+*🎯 Open to 2026 internships → ajaymishraj25@gmail.com*
