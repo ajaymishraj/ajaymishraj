@@ -35,7 +35,7 @@ serving 500+ users across colleges.
 ```
 Frontend    HTML · CSS · JavaScript · PWA
 Cloud       Firebase (Auth · Hosting · Firestore · Storage) · IndexedDB
-Languages   C · C++ · Python
+Languages   C · Python
 AI          Generative AI · Prompt Engineering
 ```
 
