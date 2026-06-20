@@ -124,7 +124,13 @@ More projects available at: **[Portfolio →](https://ajxmishra1.web.app)** and 
 ✨ Doing 4+ interships
 ✨ Full-Stack Developer with AI Integration Expertise
 ```
-
+📚 What I'm Learning
+Currently diving deep into:
+- ⚛️ Advanced React Mastery (Context API, custom hooks, performance optimization)
+- 🚀 Next.js Mastery (SSR, SSG, API routes, full-stack capabilities)
+- 🔌 Node.js Backend Development (Express, middleware, async patterns, scaling)
+- 🐍 Python Backend & APIs (FastAPI, Django, async frameworks, microservices)
+- ⚙️ C++ Fundamentals (Data structures, algorithms, system-level programming)
 ---
 
 ## 🤝 Let's Connect
