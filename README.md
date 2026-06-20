@@ -48,7 +48,7 @@ A real-time bus tracking and attendance analytics PWA that helps students optimi
 
 ---
 
-### **printQ** 📄
+### **PrintQ** 📄
 *Intelligent document management system*
 
 A full-stack document processing and queue management platform with AI-powered optimization.
