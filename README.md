@@ -43,7 +43,6 @@ A real-time bus tracking and attendance analytics PWA that helps students optimi
 - **Features:** Live tracking, attendance insights, offline-first architecture
 - **Impact:** Streamlined campus logistics for 500+ daily users
 
-**[Explore →](https://ajxmishra1.web.app)**
 
 ---
 
@@ -76,8 +75,8 @@ A social platform connecting students for lost and found items on campus.
 
 - **Tech Stack:** React, Firebase, Community-driven features
 - **Community Impact:** Helping students recover lost items daily
-
 ---
+More projects available at: **[Portfolio →](https://ajxmishra1.web.app)** and **[Github Repos →]([https://ajxmishra1.web.app](https://github.com/ajaymishraj?tab=repositories))**
 
 ## 💻 Technical Stack
 
@@ -91,8 +90,7 @@ A social platform connecting students for lost and found items on campus.
 ┌─────────────────────────────────────────────────────────────┐
 │ BACKEND & DATABASE                                          │
 ├─────────────────────────────────────────────────────────────┤
-│ 🔥 Firebase        🗄️  Firestore          💾 IndexedDB    │
-│ 🔐 Auth            📡 Real-time Sync      ☁️  Cloud Storage│
+│ 🔥 Firebase/Supabase                                       |
 └─────────────────────────────────────────────────────────────┘
 
 ┌─────────────────────────────────────────────────────────────┐
@@ -105,35 +103,15 @@ A social platform connecting students for lost and found items on campus.
 ┌─────────────────────────────────────────────────────────────┐
 │ LANGUAGES                                                   │
 ├─────────────────────────────────────────────────────────────┤
-│ 🐍 Python          🇨 C                  📝 SQL             │
-│ 🔤 JavaScript      📊 Data Structures    🎯 Algorithms    │
+│ 🐍 Python          🇨 C       📊 Data Structures & Algorithms│
 └─────────────────────────────────────────────────────────────┘
 
 ┌─────────────────────────────────────────────────────────────┐
 │ TOOLS & PLATFORMS                                           │
 ├─────────────────────────────────────────────────────────────┤
-│ 🛠️  Git/GitHub      🐳 Web Standards      🚀 Performance  │
-│ 📦 npm/yarn         🔧 DevTools           ♿ Accessibility│
+│ 🛠️  Git/GitHub     🚀 Performance         ♿ Accessibility│
 └─────────────────────────────────────────────────────────────┘
 ```
-
----
-
-## 📈 What I'm Currently Up To
-
-- 🚀 **Building** at FlyRank AI – Crafting frontend solutions with AI integration
-- 📚 **Learning** advanced prompt engineering and LLM optimization strategies
-- 🔬 **Exploring** cutting-edge AI applications in web development
-- 🎯 **Contributing** to open-source projects that inspire me
-
----
-
-## 🎓 Education
-
-**B.Tech in Artificial Intelligence**  
-Noida Institute of Engineering and Technology (NIET) • Noida, India
-
-Specializing in AI, Machine Learning, Data Structures, and practical software development.
 
 ---
 
@@ -143,7 +121,7 @@ Specializing in AI, Machine Learning, Data Structures, and practical software de
 ✨ 510+ Users Acquired (Bunkoo Meter)
 ✨ 3.3K+ Page Views & 6.7K+ Tracked Events
 ✨ Production-Grade Firebase Applications
-✨ Front-end AI Engineer at FlyRank AI
+✨ Doing 4+ interships
 ✨ Full-Stack Developer with AI Integration Expertise
 ```
 
@@ -177,7 +155,7 @@ I'm always excited to discuss:
 ```
 💫 Always learning, always building, always innovating 💫
 ```
-
+🎯 Open to internships → ajaymishraj25@gmail.com
 **Made with ❤️ by [Ajay Mishra](https://github.com/ajaymishraj)**
 
 [↑ Back to top](#)
