@@ -1,9 +1,15 @@
 <div align="center">
+ 
 Hey, I'm Ajay Mishra 👋
+ 
 </div>
+
 <div align="center">
+ 
 AI Engineer • Web Developer • Data Analyst • Python & C
+ 
 </div>
+
 <div align="center">
  
 [![Portfolio](https://img.shields.io/badge/Portfolio-ajxmishra1.web.app-185FA5)](https://ajxmishra1.web.app)
