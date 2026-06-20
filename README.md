@@ -147,6 +147,8 @@ I'm always excited to discuss:
 💫 Always learning, always building, always innovating 💫
 ```
 🎯 Open to internships → ajaymishraj25@gmail.com
+<br>
+<br>
 **Made with ❤️ by [Ajay Mishra](https://github.com/ajaymishraj)**
 
 
