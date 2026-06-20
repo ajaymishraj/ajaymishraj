@@ -1,5 +1,7 @@
 <div align="center">
-# Hey, I'm Ajay Mishra 👋
+Hey, I'm Ajay Mishra 👋
+</div>
+<div align="center">
 AI Engineer • Web Developer • Data Analyst • Python & C
 </div>
 <div align="center">
