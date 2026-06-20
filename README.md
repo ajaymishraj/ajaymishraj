@@ -1,22 +1,16 @@
 <div align="center">
- 
-**Hey, I'm Ajay Mishra 👋**
- 
-</div>
 
-<div align="center">
- 
-*AI Engineer • Web Developer • Data Analyst • Python & C*
- 
-</div>
+## Ajay Mishra
 
-<div align="center">
- 
+AI Engineer • Web Developer • Data Analyst • Python & C
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-ajxmishra1.web.app-185FA5)](https://ajxmishra1.web.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2)](https://linkedin.com/in/ajay-mishra-558a62389/)
 [![Email](https://img.shields.io/badge/Email-ajaymishraj25%40gmail.com-D85A30)](mailto:ajaymishraj25@gmail.com)
 
 </div>
+
+---
 
 ## 🎯 About Me
 
