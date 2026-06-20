@@ -1,3 +1,4 @@
+<div align="center">
 # Hey, I'm Ajay Mishra 👋
 
 ```
@@ -7,13 +8,14 @@
  ║  🚀 Firebase/Supabase | AI Integration | Web Innovation                  ║
  ╚═══════════════════════════════════════════════════════════════════════════╝
 ```
-
+</div>
 <div align="center">
-
-**[Portfolio](https://ajxmishra1.web.app)** • **[LinkedIn](https://linkedin.com/in/ajay-mishra-558a62389)** • **[Email](mailto:ajay.mishraj@gmail.com)**
+ 
+[![Portfolio](https://img.shields.io/badge/Portfolio-ajxmishra1.web.app-185FA5)](https://ajxmishra1.web.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2)](https://linkedin.com/in/ajay-mishra-558a62389/)
+[![Email](https://img.shields.io/badge/Email-ajaymishraj25%40gmail.com-D85A30)](mailto:ajaymishraj25@gmail.com)
 
 </div>
-
 ---
 
 ## 🎯 About Me
