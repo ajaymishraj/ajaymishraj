@@ -2,9 +2,9 @@
 
 ```
  ╔═══════════════════════════════════════════════════════════════════════════╗
- ║  Front-end AI Engineer & Full-Stack Developer                            ║
- ║  Building intelligent, scalable web experiences                          ║
- ║  🚀 Firebase/Supabase | AI Integration | Web Innovation                           ║
+ ║  Front-end AI Engineer & Full-Stack Developer                             ║
+ ║  Building intelligent, scalable web experiences                           ║
+ ║  🚀 Firebase/Supabase | AI Integration | Web Innovation                  ║
  ╚═══════════════════════════════════════════════════════════════════════════╝
 ```
 
