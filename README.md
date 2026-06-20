@@ -83,39 +83,22 @@ More projects available at: **[Portfolio →](https://ajxmishra1.web.app)** and 
 ## 💻 Technical Stack
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│ FRONTEND                                                    │
-├─────────────────────────────────────────────────────────────┤
-│ 📱 Responsive      🎭 Modern UI/UX       ✨ Animations    │
-└─────────────────────────────────────────────────────────────┘
+FRONTEND
+📱 Responsive · 🎭 Modern UI/UX · ✨ Animations
 
-┌─────────────────────────────────────────────────────────────┐
-│ BACKEND & DATABASE                                          │
-├─────────────────────────────────────────────────────────────┤
-│ 🔥 Firebase/Supabase                                       |
-└─────────────────────────────────────────────────────────────┘
+BACKEND & DATABASE
+🔥 Firebase/Supabase
 
-┌─────────────────────────────────────────────────────────────┐
-│ AI & AUTOMATION                                             │
-├─────────────────────────────────────────────────────────────┤
-│ 🤖 Generative AI   🧠 Prompt Engineering  🔗 API Integration│
-│ 🤖 Groq API        🎯 LLM Optimization    📊 Data Analysis│
-└─────────────────────────────────────────────────────────────┘
+AI & AUTOMATION
+🤖 Generative AI · 🧠 Prompt Engineering · 🔗 API Integration
+🤖 Groq API · 🎯 LLM Optimization · 📊 Data Analysis
 
-┌─────────────────────────────────────────────────────────────┐
-│ LANGUAGES                                                   │
-├─────────────────────────────────────────────────────────────┤
-│ 🐍 Python          🇨 C       📊 Data Structures & Algorithms│
-└─────────────────────────────────────────────────────────────┘
+LANGUAGES
+🐍 Python · 🇨 C · 📊 Data Structures & Algorithms
 
-┌─────────────────────────────────────────────────────────────┐
-│ TOOLS & PLATFORMS                                           │
-├─────────────────────────────────────────────────────────────┤
-│ 🛠️  Git/GitHub     🚀 Performance         ♿ Accessibility│
-└─────────────────────────────────────────────────────────────┘
+TOOLS & PLATFORMS
+🛠️ Git/GitHub · 🚀 Performance · ♿ Accessibility
 ```
-
----
 
 ## 🏆 Key Achievements
 
