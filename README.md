@@ -76,9 +76,9 @@ Smart expense tracking with intelligent recommendations and spending pattern ana
 A social platform connecting students for lost and found items on campus.
 
 - **Tech Stack:** React, Firebase, Community-driven features
-- **Community Impact:** Helping students recover lost items daily
+- **Community Impact:** Can be used to help students recover lost items daily
 ---
-More projects available at: **[Portfolio →](https://ajxmishra1.web.app)** and **[Github Repos →]([https://ajxmishra1.web.app](https://github.com/ajaymishraj?tab=repositories))**
+More projects available at: **[Portfolio →](https://ajxmishra1.web.app)** and **[Github Repos →](https://github.com/ajaymishraj?tab=repositories)**
 
 ## 💻 Technical Stack
 
