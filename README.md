@@ -158,6 +158,5 @@ I'm always excited to discuss:
 🎯 Open to internships → ajaymishraj25@gmail.com
 **Made with ❤️ by [Ajay Mishra](https://github.com/ajaymishraj)**
 
-[↑ Back to top](#)
 
 </div>
