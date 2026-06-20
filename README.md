@@ -94,7 +94,7 @@ AI & AUTOMATION
 🤖 Groq API · 🎯 LLM Optimization · 📊 Data Analysis
 
 LANGUAGES
-🐍 Python · 🇨 C · 📊 Data Structures & Algorithms
+🐍 Python · C · 📊 Data Structures & Algorithms
 
 TOOLS & PLATFORMS
 🛠️ Git/GitHub · 🚀 Performance · ♿ Accessibility
