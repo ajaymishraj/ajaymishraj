@@ -1,13 +1,6 @@
 <div align="center">
 # Hey, I'm Ajay Mishra 👋
-
-```
- ╔═══════════════════════════════════════════════════════════════════════════╗
- ║  Front-end AI Engineer & Full-Stack Developer                             ║
- ║  Building intelligent, scalable web experiences                           ║
- ║  🚀 Firebase/Supabase | AI Integration | Web Innovation                  ║
- ╚═══════════════════════════════════════════════════════════════════════════╝
-```
+AI Engineer • Web Developer • Data Analyst • Python & C
 </div>
 <div align="center">
  
@@ -16,7 +9,6 @@
 [![Email](https://img.shields.io/badge/Email-ajaymishraj25%40gmail.com-D85A30)](mailto:ajaymishraj25@gmail.com)
 
 </div>
----
 
 ## 🎯 About Me
 
