@@ -53,7 +53,7 @@ A real-time bus tracking and attendance analytics PWA that helps students optimi
 
 A full-stack document processing and queue management platform with AI-powered optimization.
 
-- **Tech Stack:** React, Firebase, Node.js, Groq API
+- **Tech Stack:** React, Supabase, Node.js, Groq API
 - **Highlights:** Smart print queue management, document preview, cloud storage
 - **Status:** Production-ready
 
