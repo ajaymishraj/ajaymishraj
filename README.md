@@ -20,7 +20,7 @@ I'm a **Front-end AI Engineer Intern at FlyRank AI** with a passion for building
 - 🤖 **Generative AI Integration** – Prompt engineering, AI-powered automation, intelligent workflows
 - 🔥 **Full-Stack Firebase Development** – Real-time databases, Firestore, authentication, hosting
 - 💻 **Frontend Excellence** – React, Tailwind CSS, performance optimization, responsive design
-- 🛠️ **Web Innovation** – PWAs, IndexedDB, modern JavaScript patterns, API integration
+- 🛠️ **Web Innovation** – PWAs, IndexedDB, API integration
 
 ---
 
